@@ -1,4 +1,4 @@
-# 🏥 Appointment, Diagnosis, and Invoicing System for Individual Clinics
+# 🏥 Appointment, Diagnosis, and Invoicing Architecture for Individual Clinics
 
 > ℹ️ **Note:** If login requires a verification code, please contact [zheng.wang0911@gmail.com](mailto:zheng.wang0911@gmail.com)
 
